@@ -5,7 +5,7 @@
   (Ref: Kubernetes plugin https://github.com/jenkinsci/kubernetes-plugin).
 
 
-  - Below secrets needs to be defined as well:  
+  - Below secrets should to be defined as well:  
         `jenkins-docker-password` : Docker repository password  
         `jenkins-helm-password` : Helm repository password  
 
